@@ -235,4 +235,4 @@ This repository serves as the official landing page for Direct MKV Converter. Th
 **Get the most recent version of Direct MKV Converter today!**
 
 ---
-**Last updated:** 2026-10-14 01:31:56 UTC
+**Last updated:** 2026-10-14 06:59:34 UTC
